@@ -1,7 +1,7 @@
 {
     "name": "appearance-profiles",
-    "displayName": "Appearance Profiles",
-    "description": "Lets you save var[ons to a profilei",
+    "displayName": "Theme Profiles",
+    "description": "Lets you save various visual settings to a profile",
     "version": "0.0.1",
     "engines": {
         "vscode": "^1.74.0"
@@ -57,5 +57,9 @@
         "mocha": "^10.1.0",
         "typescript": "^4.9.3",
         "@vscode/test-electron": "^2.2.0"
-    }
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Prometheus1400/appearance-profiles"
+      }
 }
