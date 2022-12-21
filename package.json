@@ -61,5 +61,6 @@
     "repository": {
         "type": "git",
         "url": "https://github.com/Prometheus1400/appearance-profiles"
-      }
+    },
+    "publisher": "KalebDickerson"
 }
