@@ -4,9 +4,12 @@ Allows for the creation of theme profiles to easily group color scheme, product 
 Enables easier experimentation of vscode visual settings without worrying about losing any settings.
 
 ## Features
-Create, delete, and select your various themes for quick appearance changes, and saving your favorite theme profiles.
-
-![](https://github.com/Prometheus1400/appearance-profiles/blob/main/src/media/demo.gif)
+* You will see your current selected theme on the bottom status bar. By default it should say "No theme selected". Click it
+to start working with the extension.
+* Save your current theme settings (color scheme, product icon theme, and icon theme) to a profile that you will name.
+* Select between created profiles.
+* Option to delete profiles.
+![Demo](/src/media/demo.gif)
 
 ## Known Issues
 
