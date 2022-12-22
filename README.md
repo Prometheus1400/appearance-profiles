@@ -8,7 +8,7 @@ Enables easier experimentation of vscode visual settings without worrying about 
 to start working with the extension.
 * Save your current theme settings (color scheme, product icon theme, and icon theme) to a profile that you will name.
 * Select between created profiles.
-* Option to delete profiles.\
+* Option to delete profiles.
 
 ![Demo](/src/media/demo.gif)
 
