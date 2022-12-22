@@ -10,7 +10,7 @@ to start working with the extension.
 * Select between created profiles.
 * Option to delete profiles.
 
-![Demo](/src/media/demo.gif)
+![Demo](/images/demo.gif)
 
 ## Known Issues
 
