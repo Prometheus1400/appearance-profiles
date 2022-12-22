@@ -25,3 +25,7 @@ Initial release of Theme Profiles
 ### 1.0.1
 
 Improved documentation for using the extension
+
+### 1.0.2
+
+Added Icon to extension

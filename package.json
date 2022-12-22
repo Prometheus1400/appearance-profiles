@@ -1,8 +1,9 @@
 {
     "name": "theme-profiles",
+    "icon": "/src/media/theme_icon.png",
     "displayName": "Theme Profiles",
-    "description": "Lets you save various visual settings to a profile",
-    "version": "0.0.1",
+    "description": "Lets you save various visual settings to a theme profile",
+    "version": "1.0.2",
     "engines": {
         "vscode": "^1.74.0"
     },
