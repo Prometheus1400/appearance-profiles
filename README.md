@@ -21,3 +21,7 @@ No known issues.
 ### 1.0.0
 
 Initial release of Theme Profiles
+
+### 1.0.1
+
+Improved documentation for using the extension
